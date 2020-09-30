@@ -102,15 +102,15 @@ input#rotateVideo:checked+label::after {
 
 label {
    background: rgb(56, 87, 119);
-   border-radius: 65px;
+   border-radius: 70px;
    color: rgba(255, 255, 255, 0.7);
    display: block;
-   font-size: 35px;
+   font-size: 45px;
    font-weight: bold;
    line-height: 50px;
    margin: 10px auto;
    position: relative;
-   text-align: center;
+   text-align: left;
    width: 50px;
-   z-index: 2;
+   z-index: 3;
 }
